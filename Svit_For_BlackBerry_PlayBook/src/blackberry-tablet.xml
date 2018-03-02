@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qnx>
+	<initialWindow>
+		<systemChrome>none</systemChrome>
+		<transparent>false</transparent>
+	</initialWindow>
+	<publisher>Pronic</publisher>
+    <author>Pronic</author>
+    <authorId>gYAAgAw55XXmDkLC04nW6ZdcgoI</authorId>
+	<category>core.utils</category>
+	<splashscreen>splash.jpg:splash2.jpg</splashscreen>
+	<icon>
+    	<image>Svit.png</image>
+  	</icon>
+	<action>access_shared</action>
+	<action>access_internet</action>
+	<permission>access_shared</permission>
+  	<permission>access_internet</permission>
+</qnx>

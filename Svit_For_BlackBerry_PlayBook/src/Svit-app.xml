@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/3.1">
+	<id>si.pronic.Svit</id>
+	<filename>Svit</filename>
+	<name>Svit</name>
+	<versionNumber>1.5.2</versionNumber>
+	<description>Svit - Project Gutenberg Ebook Reader with EPUB Support</description>
+	<copyright>Pronic</copyright>
+	<initialWindow>
+		<content>Svit.swf</content>
+		<title>Svit - Ebook Reader</title>
+		<visible>true</visible>
+    	<autoOrients>true</autoOrients>
+        <fullScreen>true</fullScreen>
+    </initialWindow>
+    <icon>
+        <image72x72>Svit.png</image72x72>
+    </icon>
+</application>
