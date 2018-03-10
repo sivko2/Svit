@@ -1,5 +1,6 @@
 # Svit
 Svit - Epub Reader for BlackBerry PlayBook
+
 License: GNU General Public License, version 3 (GPL-3.0)
 
 My resume: https://www.linkedin.com/in/romanverhovsek/
